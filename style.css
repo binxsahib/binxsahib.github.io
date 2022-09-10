@@ -6,7 +6,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
+    background: url('images/joanna-kosinska-7ACuHoezUYk-unsplash.jpg');
     background-size:cover;
     position:relative;
 }
